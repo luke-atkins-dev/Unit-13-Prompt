@@ -1,5 +1,7 @@
 <!-- In Chapter  13 and 14, refactoring was done for better organization.  If you were redesigning this project again, explain which modules and classes you would create to better organize the game than what we have currently done in class.  You do not need to go into full detail just explain how the project would be organized and why it would be better than what you currently have. -->
 
+# For this prompt I chose question 2
+
 ## Child parent relationship
 
 If I were to redesign this project I would change all the classes to have a parent and child relationship that is similar to a hierarchy. I have noticed that a reference to the main game instance is passed to most classes and I believe that is is unnecessary.
